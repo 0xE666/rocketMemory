@@ -1,4 +1,4 @@
-This uses memory editing to bypass the limit to what your settings can be if the pointers / offsets become out of date and or this stops working make a issue so i can update with new pointer / offsets
+This uses memory editing to bypass the limit to what your settings can be
 
 NOW COMPATIBLE WITH EPIC AND STEAM I WANNA DIE
 
