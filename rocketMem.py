@@ -18,7 +18,6 @@ import pymem.process
 import pymem.pattern
 import pymem.memory
 from pattern import *
-from pymem.pattern import pattern_scan_module
 from pymem.process import module_from_name
 from pymem.ptypes import RemotePointer
 
